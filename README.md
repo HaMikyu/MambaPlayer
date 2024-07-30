@@ -4,11 +4,11 @@
 State Space Model in dynamic Video Games
 
 ## Abstract
-This repository presents a structure of an AI model designed to interact with a variety of video games based on visual input. Our model builds upon the recent rise in popularity of State Space Models (SSMs) which have shown major improvements in interference speed and memory efficiency. In contrast to the previous researches, we were able to utilize a novel foundation model in conjunction with a higher refresh rate. Versatile structure of the system, relatively low hardware requirements and straight-forward dataset solutions show great potential to be expanded in the future.
+This paper presents a structure of an AI model designed to interact with a variety of video games based on visual input. Our model builds upon the recent rise in popularity of State Space Models (SSMs) which have shown major improvements in interference speed and memory efficiency. In contrast to the previous researches, we were able to utilize a novel foundation model in conjunction with a higher refresh rate. Versatile structure of the system, relatively low hardware requirements and straight-forward dataset solutions show great potential to be expanded in the future.
 
 ## Installation
 
-Install my-project with npm
+Install with git clone
 
 ```git
   git clone https://github.com/Towarzysz2137/MambaPlayer
