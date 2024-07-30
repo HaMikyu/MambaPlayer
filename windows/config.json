@@ -1,0 +1,14 @@
+{
+  "program": "cs2.exe",
+  "title": "Counter",
+  "lok": "G:\\AI_PROJEKT\\ruchy",
+  "monitor": 1,
+  "first_person_view": true,
+  "record_screen": false,
+  "compress_image": true,
+  "high_quality_save": false,
+  "save_format": "jpg",
+  "quality": 75,
+  "res_x": 1280,
+  "res_y": 720
+}
